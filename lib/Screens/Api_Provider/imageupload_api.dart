@@ -10,6 +10,7 @@ const String googleApiKey = "*******************";
 String basUrl = "http://admin.scsc.space/";
 
 
+
 class ImageUploadApi extends GetConnect {
   String basUrlApi = "${basUrl}api";
 
